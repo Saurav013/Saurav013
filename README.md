@@ -1,7 +1,7 @@
 Hi 👋 My name is Saurav Kumar
 =============================
 
-A Passionate Learner || Programmer || Frontend Developer
+A Passionate Learner || Programmer || Enthusiast about Data Science
 --------------------------------------------------------
 
 * 🌍  I'm based in Patna,Bihar
